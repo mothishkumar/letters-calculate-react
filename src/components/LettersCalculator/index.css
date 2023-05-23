@@ -1,0 +1,44 @@
+/* Write your code here. */
+.heading {
+  color: #ffffff;
+  font-size: 70px;
+}
+.para {
+  color: #ffffff;
+  font-size: 20px;
+}
+.button {
+  color: #219a6f;
+  background-color: #ffffff;
+  height: 45px;
+  width: 150px;
+  border-radius: 10px;
+  border-color: #e4e7eb;
+  font-weight: bold;
+}
+.bg {
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+}
+.card {
+  display: flex;
+  flex-direction: row;
+}
+.card1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.input {
+  width: 300px;
+  height: 30px;
+  background-color: transparent;
+  border-color: white;
+  color: #e4e7eb;
+}
